@@ -145,7 +145,7 @@ featured-condition-size: 1     # A tag will be featured if the size of it is mor
 
 设置是在 `_config.yml`文件里面的`Friends`那块，自己加吧。
 
-```
+``` json
 # Friends
 friends: [
     {
