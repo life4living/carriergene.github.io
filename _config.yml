@@ -1,6 +1,6 @@
 # Site settings
 title: CarrierGene
-SEOTitle: CarrierGene
+SEOTitle: 阅尔基因 | CarrierGene
 header-img: img/CG_logo.jpg
 email: lijinlong0122@gmail.com
 description: "专注,专业,专心"
@@ -97,18 +97,18 @@ service-worker: true
 
 
 # Friends
-# friends: [
-#     {
-#         title: "WY",
-#         href: "http://zhengwuyang.com"
-#     },{
-#         title: "简书·BY",
-#         href: "http://www.jianshu.com/u/e71990ada2fd"
-#     },{
-#         title: "Apple",
-#         href: "https://apple.com"
-#     },{
-#         title: "Apple Developer",
-#         href: "https://developer.apple.com/"
-#     }
-# ]
+friends: [
+    {
+        title: "阅尔基因官网",
+        href: "http://www.carriergene.com/#/home"
+    # },{
+    #     title: "简书·BY",
+    #     href: "http://www.jianshu.com/u/e71990ada2fd"
+    # },{
+    #     title: "Apple",
+    #     href: "https://apple.com"
+    # },{
+    #     title: "Apple Developer",
+    #     href: "https://developer.apple.com/"
+    }
+]
