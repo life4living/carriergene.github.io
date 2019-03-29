@@ -97,7 +97,7 @@ service-worker: true
 
 
 # Friends
-friends: [
+相关链接: [  #friends
     {
         title: "阅尔基因官网",
         href: "http://www.carriergene.com/#/home"
