@@ -1,18 +1,18 @@
 # Site settings
-title: life4living
-SEOTitle: life4living
-header-img: img/post-bg-desk.jpg
+title: CarrierGene
+SEOTitle: CarrierGene
+header-img: img/CG_logo.jpg
 email: lijinlong0122@gmail.com
-description: "除了自己的无知， 我什么都不懂。 ---- 苏格拉底"
-keyword: "Tech, Gene, Med, Whatever"
+description: "专注,专业,专心"
+keyword: "Tech, Gene, Med"
 url: "http://life4living.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/life4living/life4living.github.io" # you code repository
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "除了自己的无知， 我什么都不懂。 ---- 苏格拉底"
-sidebar-avatar: /img/about_me.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-about-description: "专注,专业,专心"
+sidebar-avatar: /img/carriergene_logo.png      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
