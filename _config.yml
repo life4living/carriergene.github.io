@@ -56,8 +56,8 @@ kramdown:
 
 
 # 评论系统
-# Disqus（https://disqus.com/）
-# disqus_username: life4living
+#Disqus（https://disqus.com/）
+disqus_username: life4living
 
 # Gitalk
 gitalk:
